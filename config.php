@@ -8,7 +8,7 @@ define( 'DB_PASSWORD', '' );
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
 /** port number of DB */
-define( 'PORT', '3309');
+define( 'PORT', '3308');
 
 define( 'DB_CHARSET', 'utf8' );
  ?>
